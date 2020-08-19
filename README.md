@@ -6,6 +6,8 @@ I like to research stuff, so I created this repo of all the 'papers' I write abo
 
 Well, as I said, I like to research stuff and explain them to other people. If people can use any of the information given in any of these papers, I am happy! I just work on this in my free time or when I'm bored, so don't expect there to be a new paper every single day.
 
+I'm trying to keep every paper somehow math, code and science related, so that it is easier to understand for developers of different kinds.
+
 _BTW, I call them "papers", but they are just projects I have been working on._
 
 ## Current papers and progress
