@@ -13,7 +13,7 @@ _BTW, I call them "papers", but they are just projects I have been working on._
 Finished | Title | Current progress | Word count | Character count
 ---------|-------|------------------|------------|----------------
 [ ] | Simulating economies | 0% | 0 | 0
-[ ] | When is there too much choice? | 0% | 0 | 0
+[ ] | Letting users make choices | 0% | 0 | 0
 
 ## Can I help
 
